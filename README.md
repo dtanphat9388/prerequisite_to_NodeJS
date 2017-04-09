@@ -17,5 +17,5 @@
 
   4. <a href="http://cmder.net/">Cmder</a>
 
-  5. Chocolatey
+  5. <a href="https://chocolatey.org/" target="_blank">Chocolatey</a>
 </pre>
